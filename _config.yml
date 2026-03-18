@@ -22,9 +22,9 @@ title: Perry in the cloud ☁️
 email: tranphongbb@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   My little mission, on a journey to conquer computer graphics.
-domain: beadex.github.io
-baseurl: "beadex.github.io" # the subpath of your site, e.g. /blog
-url: "https://beadex.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: beadex.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://beadex.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: ""      # place folder name if the site is served in a subfolder
 github_username:  beadex
 
 # Build settings
