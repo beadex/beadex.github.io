@@ -1,1 +1,0 @@
-# beadex.github.io
