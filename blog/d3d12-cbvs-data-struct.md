@@ -26,7 +26,7 @@ struct GPUDataConstantBuffer
     // Total 16 bytes.
     XMFLOAT4 lightSourceColor; // 16 bytes
     XMFLOAT3 cameraPosition; // 12 bytes
-    // Total: 40 bytes upto this point
+    // Total: 44 bytes upto this point
     float padding[53]; // 53 * 4 = 212 bytes
     // Total: 256 bytes
 };
