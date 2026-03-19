@@ -1,0 +1,12 @@
+cg:
+  label: Computer Graphics
+  permalink: /cg
+  description: Post about Computer Graphics
+d3d12:
+  label: Direct3D 12
+  permalink: /d3d12
+  description: Post about Computer Graphics with Direct3D 12 APIs
+vulkan:
+  label: Vulkan
+  permalink: /vulkan
+  description: Post about Computer Graphics with Vulkan APIs
