@@ -4,7 +4,7 @@ description: This is my first post on Docusaurus.
 slug: d3d12-cbvs-data-struct
 authors: perry
 tags: [cg, d3d12]
-image: https://i.imgur.com/mErPwqL.png
+image: https://fastly.picsum.photos/id/638/400/300.jpg?hmac=YjIw1wKWSF8WNnKUCpYtG_YkIlAsrCINvokRbEtocBs
 hide_table_of_contents: false
 ---
 
